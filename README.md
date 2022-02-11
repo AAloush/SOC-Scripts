@@ -1,5 +1,5 @@
 # SOC-Scripts
-Some scripts I created as a part of a Cyber Security Defence Team.
+Some scripts I wrote as a part of a Cyber Security Defence Team.
 
 ## http_stream_extractor.sh
 This script was created to extract the HTTP stream as well as the payloads related to Log4J vulnerability.
